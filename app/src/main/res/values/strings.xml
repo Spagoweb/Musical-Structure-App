@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <!-- activity label -->
+    <string name="title_search">Search Activity</string>
+    <string name="title_history">History Activity</string>
+    <string name="title_home">Main Activity</string>
+    <string name="title_song_details">Song Details Activity</string>
+    <string name="title_purchase">Purchase Activity</string>
+    <!-- button -->
+    <string name="btn_search">Search</string>
+    <string name="btn_history">History</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_song_details">Song Details</string>
+    <string name="btn_purchase">Buy Item</string>
+    <!-- text -->
+    <string name="text_home">Main Activity: If I click the Search button, I\'m going to find the music I\'m listening to. Chronology button shows songs I\'ve already found.</string>
+    <string name="text_history">List of the songs I\'ve already found: each row contains song\'s image, song title and artist\'s name. If I click on row, I\'ll jump into songs details activity. By the way, I\'ve added a detail song button.</string>
+    <string name="text_purchase">I decided to use PayPal Android SDK (https://github.com/paypal/PayPal-Android-SDK) as a payment method for purchasing songs: I like use this payment method, because it\'s safe and very easy to use. The minimum requirements are Android 4.1.x (API 16) or later for Phone or tablet. The only thing left is to implement it =)</string>
+    <string name="text_song_details">This activity shows the detail of the song found: it displays large image, with title and artist details. Here there\'s also purchase button to buy the song.</string>
+    <string name="text_search">This activity shows the search for the song. Once the song is found, it will automatically go into song detail.</string>
+</resources>
